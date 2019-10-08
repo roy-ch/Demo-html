@@ -1,0 +1,6 @@
+ID,TITLE,URL,LEVEL,AFFECTED_VERSION,PATCHES
+CNNVD-201905-954,Apache Zookeeper 授权问题漏洞,http://www.cnnvd.org.cn/web/xxk/ldxqById.tag?CNNVD=CNNVD-201905-954,中危,,http://www.cnnvd.org.cn/web/xxk/bdxqById.tag?id=92910 
+CNNVD-201805-694,Apache ZooKeeper 安全漏洞,http://www.cnnvd.org.cn/web/xxk/ldxqById.tag?CNNVD=CNNVD-201805-694,,Apache Zookeeper:- Apache Zookeeper:3.4.0 Apache Zookeeper:3.4.1 Apache Zookeeper:3.4.2 Apache Zookeeper:3.4.3 ,http://www.cnnvd.org.cn/web/xxk/bdxqById.tag?id=83600 
+CNNVD-201706-048,Apache Zookeeper 安全漏洞,http://www.cnnvd.org.cn/web/xxk/ldxqById.tag?CNNVD=CNNVD-201706-048,中危,Debian Debian_linux:8.0 ,http://www.cnnvd.org.cn/web/xxk/bdxqById.tag?id=70741 
+CNNVD-201609-425,Apache Zookeeper 缓冲区溢出漏洞,http://www.cnnvd.org.cn/web/xxk/ldxqById.tag?CNNVD=CNNVD-201609-425,中危,Apache Zookeeper:3.5.0 Apache Zookeeper:3.5.1 Apache Zookeeper:3.5.2 Apache Zookeeper:3.4.8 ,http://www.cnnvd.org.cn/web/xxk/bdxqById.tag?id=64219 
+CNNVD-201404-360,Apache Zookeeper 信任管理漏洞,http://www.cnnvd.org.cn/web/xxk/ldxqById.tag?CNNVD=CNNVD-201404-360,低危,Apache Zookeeper:- Redhat Jboss_fuse:6.0.0 Redhat Jboss_a-Mq:6.0.0 ,http://www.cnnvd.org.cn/web/xxk/bdxqById.tag?id=49398 
